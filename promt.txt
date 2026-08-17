@@ -1,0 +1,6 @@
+summarize the following text into 3 professional builet points text:
+tell me importance of AI
+STRICT RULES:
+use only roman urdu/hindi (english alphabets like "AI bohat zarori hay")
+DONOT use devanagan or hindi script
+DONOT write any intro like `sure` or ` here is`

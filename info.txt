@@ -1,0 +1,9 @@
+PS:
+
+$env:N8N_CORS_ALLOWED_ORIGINS="*"; n8n
+
+Stop-Process -Name node -Force
+
+cmd:
+
+set N8N_CORS_ALLOWED_ORIGINS=* && n8n
