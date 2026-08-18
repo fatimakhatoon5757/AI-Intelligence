@@ -17,7 +17,7 @@
             resultBox.classList.add('hidden');
 
             try {
-                const response = await fetch('http://localhost:5678/webhook-test/9caf37f4-49fc-4e4b-95df-4a604171bf0a', {
+                const response = await fetch('http://localhost:5678/webhook-test/d65131ec-72a3-42a5-9cf5-ae78109d78e4', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ text: text })
